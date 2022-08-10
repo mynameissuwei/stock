@@ -1,0 +1,15 @@
+{
+  "jsl_monitor": {
+    "EXPIRE_TIME": 1800,
+    "MONITOR_PERCENT": 9,
+    "ACCESS_INTERVAL": 20,
+    "JSL_USER": "17683763005",
+    "JSL_PASSWORD": "q1996728"
+  },
+  "enterprise_wechat": {
+    "userid": "SuWei",
+    "agentid": "1000002",
+    "corpid": "ww0c853682753f25c2",
+    "corpsecret": "kH5V-GvJfaQ7r-V6HyDKEfld0ny-OfoTyRoVy7jF5rk"
+  }
+}

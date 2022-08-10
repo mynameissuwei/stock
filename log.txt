@@ -1,0 +1,16 @@
+2022-08-10 15:34:11.384 | ERROR    | common.BaseService:get:56 - base class error 
+2022-08-10 15:34:16.396 | ERROR    | common.BaseService:get:56 - base class error 
+2022-08-10 15:34:23.070 | ERROR    | common.BaseService:get:56 - base class error 
+2022-08-10 15:34:28.086 | ERROR    | common.BaseService:get:56 - base class error 
+2022-08-10 15:34:33.098 | ERROR    | common.BaseService:get:56 - base class error 
+2022-08-10 15:34:38.111 | ERROR    | common.BaseService:get:56 - base class error 
+2022-08-10 15:34:43.456 | ERROR    | common.BaseService:get:56 - base class error 
+2022-08-10 15:34:48.813 | ERROR    | common.BaseService:get:56 - base class error 
+2022-08-10 15:34:54.739 | ERROR    | common.BaseService:get:56 - base class error 
+2022-08-10 15:35:00.071 | ERROR    | common.BaseService:get:56 - base class error 
+2022-08-10 15:35:05.445 | ERROR    | common.BaseService:get:56 - base class error 
+2022-08-10 15:43:10.822 | ERROR    | common.BaseService:get:56 - base class error 
+2022-08-10 15:43:15.833 | ERROR    | common.BaseService:get:56 - base class error 
+2022-08-10 15:43:20.845 | ERROR    | common.BaseService:get:56 - base class error 
+2022-08-10 15:43:25.857 | ERROR    | common.BaseService:get:56 - base class error 
+2022-08-10 15:43:30.876 | ERROR    | common.BaseService:get:56 - base class error 
